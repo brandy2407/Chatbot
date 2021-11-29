@@ -1,0 +1,28 @@
+[
+  {
+    "tag_name": "entity",
+    "ids_to_tags": {
+      "1": "B-author",
+      "2": "I-author",
+      "3": "L-author",
+      "4": "U-author",
+      "5": "B-title",
+      "6": "I-title",
+      "7": "L-title",
+      "8": "U-title",
+      "0": "O"
+    },
+    "tags_to_ids": {
+      "B-author": 1,
+      "I-author": 2,
+      "L-author": 3,
+      "U-author": 4,
+      "B-title": 5,
+      "I-title": 6,
+      "L-title": 7,
+      "U-title": 8,
+      "O": 0
+    },
+    "num_tags": 9
+  }
+]
